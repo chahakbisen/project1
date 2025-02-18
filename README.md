@@ -1,4 +1,4 @@
 # project1
 This is my first repository.
 <br>
-Author- Chahak Bisen
+Author- Chahak (Github)
